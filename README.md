@@ -12,3 +12,5 @@ Rencana Pembelajaran Semester PBO-2 2023
 10. Python Client API 
 11. Python GUI Menggunakan Tkinter
 12. Aplikasi GUI API Database
+13. Akses API di Live Server
+14. Tugas Besar
