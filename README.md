@@ -1,5 +1,4 @@
-# pbo_lanjut
-Repositori Mata Kuliah PBO Lanjut
+# Pemrograman Berorientasi Objek lanjut
 Rencana Pembelajaran Semester PBO-2 2023
 1. Class dan Objek
 2. Inheritance (Pewarisan)
